@@ -1,0 +1,12 @@
+img{
+    width: 150px;
+}
+.container-fluid{
+    background-color: rgb(22,69,51);
+}
+a.nav-link:hover{
+    color: white;
+}
+.navbar{
+    font-size: 23px;
+}

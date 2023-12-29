@@ -1,0 +1,104 @@
+.btn{
+    background-color: rgb(22,69,55);
+    border: 1px solid rgb(22,69,55);
+    margin: 5px;
+}
+.btn:hover{
+    background-color: rgb(22,69,55);
+    border: 1px solid rgb(22,69,55);
+}
+.content{
+    font-size: 1rem;
+}
+/* .card{
+    width: 500px; */
+/* } */
+/* .card-food{
+    position: relative;
+} */
+/* .card-food::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url('../../assets/foodPic.jpg') no-repeat;
+    background-size: cover;
+    opacity: 0.3; 
+}
+.card-cold{
+    position: relative;
+    width: 100%;
+
+}
+.card-cold::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url('../../assets/coldDrink.jpg') no-repeat;
+    background-size: cover;
+    opacity: 0.5; 
+    background-position: center top;
+    min-height: 400px;
+}
+.card-hot{
+    position: relative;
+    
+}
+.card-hot::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url('../../assets/hotDrink.jpg')no-repeat;
+    background-size: cover;
+    opacity: 0.3; 
+    background-position: center top;
+    min-height: 400px;
+
+}
+.card-shisha{
+    position: relative;
+    overflow:hidden;
+}
+.card-shisha::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url('../../assets/shisha.jpg')no-repeat;
+    background-size: contain;
+    opacity: 0.3; 
+    background-position: center top;
+    min-height: 400px;
+}
+.card-snack{
+    position: relative;
+ 
+}
+.card-snack::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url('../../assets/snack.jpg')no-repeat;
+    background-size: cover;
+    opacity: 0.3;
+    background-position: center top;
+    min-height: 400px;
+} */
