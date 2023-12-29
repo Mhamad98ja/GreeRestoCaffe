@@ -1,15 +1,15 @@
 let snacksDataList = [
     {
         name:"Termos",
-        price:"50.000",
+        price:"150.000",
     },
     {
         name:"Sliced Carrots",
-        price:"50.000",
+        price:"150.000",
     },
     {
         name:"Makhlouta",
-        price:"50.000",
+        price:"150.000",
     },
     {
         name:"Pop Corn",
