@@ -9,7 +9,7 @@ import '../CategoryCollapse/CategoryCollapse.css'
 
 const CategoryCollapse = (props) => {
 return (
-    <div className='d-flex justify-content-center'>
+    <div className='d-flex px-4'>
     <div className='content'>
         <p class="d-inline-flex gap-1">
     <a class="btn btn-primary" data-bs-toggle="collapse" href={"#"+props.link} role="button" aria-expanded="false" aria-controls={props.link}>{props.link}</a>
@@ -25,7 +25,7 @@ return (
                 
             {props.link==="Sandwiches" ? <div className='card-food'>
                 {props.link==="Sandwiches"?fooddDataList.map((item, index) => ( 
-        <Item key ={index} name={item.name} price={item.price} price2={item.price2}/>
+        <Item key ={index} name={item.name} price={item.price} price2={item.price2} link={props.link}/>
             )):""}
             </div>:""}
 
